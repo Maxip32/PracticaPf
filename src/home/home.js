@@ -1,7 +1,7 @@
 export const home = ()=>{
     return(
         
-        <div> este es el Home</div>
+        <div className="Home"> este es el Home</div>
 
         
 
