@@ -7,7 +7,8 @@ function App () {
 
   return(
     <div className='Home'>
-   <h1>Este es el Home</h1>
+        <h1>Este es el Home</h1>
+        <p>modif by Erick</p>
     </div>
   )
   
