@@ -7,7 +7,7 @@ function App () {
 
   return(
     <div className='Home'>
-   <h1>Este es el Home</h1>
+   <h1>Este es el home y tiago paso por aca</h1>
     </div>
   )
   
